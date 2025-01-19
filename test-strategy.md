@@ -136,7 +136,5 @@ Causa: Implementación incorrecta.
 
 Solución: Ajustar los estilos y textos para cumplir con las especificaciones.
 
-Conclusión
-
-El archivo index.html fue corregido siguiendo la estrategia de testeo descrita. Ahora cumple con los requisitos funcionales y es completamente operativo. El código corregido se encuentra disponible en el repositorio de GitHub.
+y listo.
 
